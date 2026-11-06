@@ -1,0 +1,41 @@
+//
+//Written by GowinSynthesis
+//Tool Version "V1.9.11.03 Education"
+//Thu Nov  5 16:49:22 2026
+
+//Source file index table:
+//file0 "\C:/Gowin/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/lab02/src/lab02.vhd"
+//file1 "\C:/Gowin/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/lab02/src/lab02_tb.vhd"
+`pragma protect begin_protected
+`pragma protect version="2.3"
+`pragma protect author="default"
+`pragma protect author_info="default"
+`pragma protect encrypt_agent="GOWIN"
+`pragma protect encrypt_agent_info="GOWIN Encrypt Version 2.3"
+
+`pragma protect encoding=(enctype="base64", line_length=76, bytes=256)
+`pragma protect key_keyowner="GOWIN",key_keyname="GWK2023-09",key_method="rsa"
+`pragma protect key_block
+i/0c1BVl4+Q0GxQn63SjbwZ7TzIm29/cDGoywA76/TDVGOszG+0P1/RQq+flbmkHjs8qywXFcyrT
+JQU6Spd7TwFPGm83PjCiGGs8+Nwz2WWRthHnLqkG0CT7RgCGYPxjPerwksdP/y5z1cyFhLSvwf7d
+u9+de/38/wgGibA9iTrgRkSRIsivAn+L9Inqltg8C4H3iPstC6i57ZivV57Uc2Vrq2ZOapP93ID6
+Iy7uogk9c8SpJJBKLXmyAoxX+KVy/n73r0SqXbf3p4Cp6rSrIuuAVDMOuR3MqXum6p24AX2nxG9Y
+O+XUlYeOnBjEucrAtrqsq3Y5NH+z33hJIgywcg==
+
+`pragma protect encoding=(enctype="base64", line_length=76, bytes=576)
+`pragma protect data_keyowner="default-ip-vendor"
+`pragma protect data_keyname="default-ip-key"
+`pragma protect data_method="aes128-cfb"
+`pragma protect data_block
+T+y1rD3aAr5fsgRezrc9Fsc2qp/0qX2RxvD+yDPqmYQByB9eTAqcX4i4nFhTUa04xPNzATsv6HIh
+ixQATfksJlKPQBkP/d6EOJhAkAy4Cr7oRW90J9syz8adtZtkrbRGLke7pqekA5vuOM+cUxnXLV1S
+46sNlpOVd17/TjbpeuDYNxg2wM2Fi3H08zHfWhfMiPRHv0+s5eWg6lRcqbZU1KSobfP2P05Plbpz
+rMgX6Mo9XSgeKhvyrRNHgGMC6wjJE22cnYK+FyX2n+i2XD6EMSF9UPPT/g+GMbPXfzwCOXJ1bkcS
+mujwwr9VnM42s42rvwBLxZXxqvURXGw/5RIqv7UpzHHGqP4hNxFGVOeVvYH4ee+gbUhWMHEhZtgG
+PLMh3jn+wnlL6Ro+w4JvkUK81Q+C9Hr3p6BSZXrlwui9MfbnedEHw7NIwDnBK7tPa1qnvpkn6uu1
+Kw/i/GOJrnw+gYT7KaoM7KQMdrbF40xKJGYl85JLbdIT5vFhdy5VcpiWoefXk1/7FAsoxecYw5fy
+LOJ2DNycRkLxCfb0li1xE65foyk0N7Qhv2sSOZG73b2jlvetg2K0IYUlu5RMnO7ohbs07cbgxXhI
+RCSvMr9p0NZfKHMQsQtr/2f0TEqdCaaEQVkg4HM6RmTj8OxkJgFyEZIEqIpJw08EleojhLYzlJ9G
+0+OCUV92QneJ0mtxzD8ncL8x2xhOXfVb87jaFJklg5OGtFBeUQgeuc6saEVmbg6OtFUJLsw5NBcn
+ICuf+hz0
+`pragma protect end_protected
